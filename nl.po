@@ -6615,7 +6615,7 @@ msgstr "Nu meteen!"
 
 #. word appears on top of staff when they finish a coding contest
 msgid "done"
-msgstr ""
+msgstr "Klaar"
 
 msgid "{0}K"
 msgstr "{0}K"
@@ -6627,184 +6627,184 @@ msgid "{0} %"
 msgstr "{0} %"
 
 msgid "Show only new tutorials (recommended)"
-msgstr ""
+msgstr "Laat alleen nieuwe tutorials (aangeraden)"
 
 msgid "Show all tutorials"
-msgstr ""
+msgstr "Laat all de tutorials zien"
 
 msgid "Disable tutorials"
-msgstr ""
+msgstr "Zet tutorials uit"
 
 msgid "Quality"
-msgstr ""
+msgstr "Kwaliteit"
 
 msgid "Performance"
-msgstr ""
+msgstr "Prestatie"
 
 msgid "Animations"
-msgstr ""
+msgstr "Animatie"
 
 msgid "Sign up to our newsletter"
-msgstr ""
+msgstr "Schrijf u in voor onze nieuwsbrief"
 
 msgid "Signing up..."
-msgstr ""
+msgstr "Bezig met inschrijven..."
 
 msgid "Signup successful!"
-msgstr ""
+msgstr "Inschrijving succesvol!"
 
 msgid "Like this game? Stay informed about new games coming from us by signing up to our newsletter."
-msgstr ""
+msgstr "Vind dit spel leuk? Blijf op de hoogte van nieuwe spellen die van ons afkomstig zijn door u aan te melden bij onze nieuwsbrief."
 
 msgid "email address"
-msgstr ""
+msgstr "email address"
 
 msgid "Sign up"
-msgstr ""
+msgstr "Inschrijven"
 
 msgid "Load Anyway"
-msgstr ""
+msgstr "Toch laden"
 
 msgid "Abort Loading"
-msgstr ""
+msgstr "Stop laden"
 
 msgid "How would you like to proceed?"
-msgstr ""
+msgstr "Hoe wilt u doorgaan?"
 
 msgid "To correct this, activate the same mod(s) that have been used with the save game and deactive any extra mods. If this is intentional however you may wish to continue loading the game."
-msgstr ""
+msgstr "Om dit te corrigeer, activeer dezelfde mod(s) die zijn gebruikt bij het opslaan spel en desgewenst extra mods uitschakelen. Als dit opzettelijk is, kunt u het spel nog steeds laden."
 
 msgid "This mismatch may cause unwanted issues such as save game corruption making your save unplayable."
-msgstr ""
+msgstr "Deze mismatch kan ongewenste problemen veroorzaken, zoals save corruptie van de game, waardoor je save niet te spelen is."
 
 msgid "Additional Mod(s):"
-msgstr ""
+msgstr "Extra Mod(s):"
 
 msgid "Missing Mod(s):"
-msgstr ""
+msgstr "Ontbrekende mod(s)"
 
 msgid "There is a mismatch between the mods used in this save game and the mods you currently have active:"
-msgstr ""
+msgstr "Er is een mismatch tussen de mods die in dit save game worden gebruikt en de mods die momenteel actief zijn:"
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please resync your game with the Steam cloud and try again."
-msgstr ""
+msgstr "Deze save-slot is beschadigd, dit kan het gevolg zijn van een mislukte cloud-synchronisatie. Aub resync uw game met de Steam cloud en probeer opnieuw."
 
 msgid "This save slot is corrupt, this could be due to a failed cloud sync. Please report this issue to Microsoft Support this issue."
-msgstr ""
+msgstr "Deze save-slot is beschadigd, dit kan het gevolg zijn van een mislukte cloud-synchronisatie. Meld dit probleem aan Microsoft Support."
 
 msgid "This save slot is corrupt, please try restarting your game."
-msgstr ""
+msgstr "Deze save-slot is beschadigd, probeer het opnieuw te starten van uw spel."
 
 msgid "Mods:"
-msgstr ""
+msgstr "Mods:"
 
 msgid "Please wait..."
-msgstr ""
+msgstr "Wacht aub..."
 
 msgid "Greenworks requirements missing!"
-msgstr ""
+msgstr "Greenworks eisen ontbreken!"
 
 msgid "Steam Workshop"
-msgstr ""
+msgstr "Steam Workshop"
 
 msgid "Publish Mod"
-msgstr ""
+msgstr "Publiceer Mod"
 
 msgid "Update Mod"
-msgstr ""
+msgstr "Update Mod"
 
 msgid "Title*"
-msgstr ""
+msgstr "Tittel*"
 
 msgid "Description"
-msgstr ""
+msgstr "Beschrijving"
 
 msgid "Mod Source Folder*"
-msgstr ""
+msgstr "Mod Source Folder*"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Kies afbeelding"
 
 msgid "Image Preview"
-msgstr ""
+msgstr "Afbeelding weergeving"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Idle"
-msgstr ""
+msgstr "Nutteloos"
 
 msgid "Publish"
-msgstr ""
+msgstr "Publiceren"
 
 msgid "Your Mods"
-msgstr ""
+msgstr "Uw Mods"
 
 msgid "Loading data..."
-msgstr ""
+msgstr "Data laden..."
 
 msgid "Your Mod Folder"
-msgstr ""
+msgstr "Uw Mod Folder"
 
 msgid "Choose Folder"
-msgstr ""
+msgstr "Kies folder"
 
 msgid "Choose Image"
-msgstr ""
+msgstr "Kies afbeelding"
 
 msgid "Update"
-msgstr ""
+msgstr "Update"
 
 msgid "Reading package.json..."
-msgstr ""
+msgstr "Bezig met lezen van package.json..."
 
 msgid "Error. Invalid Game Dev Tycoon Mod!"
-msgstr ""
+msgstr "Fout. Ongeldige Game Dev Tycoon Mod!"
 
 msgid "No Mods found."
-msgstr ""
+msgstr "Geen mods gevonden"
 
 msgid "Folder"
-msgstr ""
+msgstr "Map"
 
 msgid "Title"
-msgstr ""
+msgstr "Titel"
 
 msgid "Updating..."
-msgstr ""
+msgstr "Updaten..."
 
 msgid "Publishing..."
-msgstr ""
+msgstr "Publiceren..."
 
 msgid "Update done"
-msgstr ""
+msgstr "Update klaar"
 
 msgid "Publish done"
-msgstr ""
+msgstr "Plublicatie klaar"
 
 msgid "Error. Missing {0}"
-msgstr ""
+msgstr "Error. Ondbrekende {0}"
 
 msgid "By submitting this item to Steam, you agree to the"
-msgstr ""
+msgstr "Door dit artikel in te sturen naar Steam, gaat u akkoord met de"
 
 msgid "Steam Workshop terms of service"
-msgstr ""
+msgstr "Steam Workshop voorwaarden van dienst"
 
 msgid "Tutorials"
-msgstr "tutorials"
+msgstr "Tutorials"
 
 msgid "Hardware"
-msgstr "hardware"
+msgstr "Hardware"
 
 msgid "Player"
-msgstr ""
+msgstr "Speler"
 
 msgid "you"
-msgstr ""
+msgstr "jij"
 
 msgid "Special thanks to {0} for purchasing this game and supporting us!"
-msgstr ""
+msgstr "Speciale dank aan {0} voor het kopen van dit spel en ondersteuning van ons!"
 
 msgid "G3 Training"
-msgstr ""
+msgstr "G3 Training"
